@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About AMAN KUMAR:
 🎓 I have completed my Bachelor's degree in 2026.<br>💻 I am currently working as a MERN Stack Developer and Data Analyst.<br>🚀 I specialize in building full-stack web applications and analyzing data to generate meaningful insights.<br>🛠️ Skilled in MongoDB, Express.js, React.js, Node.js, JavaScript, Java, Python, SQL, Excel, and Power BI.<br>📊 I work on data analysis, dashboards, and visualization to support business decisions.<br>🌱 I am continuously learning and improving my technical and problem-solving skills.
 
 
