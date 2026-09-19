@@ -118,22 +118,36 @@ I enjoy transforming raw data into meaningful insights, creating interactive das
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amankumar3093&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<!-- GitHub Streak Statistics -->
+<img
+  src="https://streak-stats.demolab.com?user=amankumar3093&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak Stats"
+  width="70%"
+/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=amankumar3093&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-<br/>
+<!-- GitHub Profile Statistics -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=amankumar3093&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"
+  width="70%"
+/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar3093&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<!-- Most Used Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar3093&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most Used Languages"
+  width="70%"
+/>
 
 </div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
