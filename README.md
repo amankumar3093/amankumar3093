@@ -1,18 +1,186 @@
-# 💫 AMAN KUMAR :
-🎓 I have completed my Bachelor's degree in 2026.<br>💻 I am currently working as a MERN Stack Developer and Data Analyst.<br>🚀 I specialize in building full-stack web applications and analyzing data to generate meaningful insights.<br>🛠️ Skilled in MongoDB, Express.js, React.js, Node.js, JavaScript, Java, Python, SQL, Excel, and Power BI.<br>📊 I work on data analysis, dashboards, and visualization to support business decisions.<br>🌱 I am continuously learning and improving my technical and problem-solving skills.
 
+<!-- ===================================================== -->
+<!--                 AMAN KUMAR | PROFILE                   -->
+<!-- ===================================================== -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aman.kumar.gajraula.up) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_being_aman_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amankumar3093) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31176983/aman-kumar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@amankumar_3093) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:AMANKUMARDEVELOPER6@GMAIL.COM) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amankumar3093&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amankumar3093&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar3093&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:14B8A6&height=220&section=header&text=AMAN%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20INSIGHTS%20%7C%20VISUALIZATION&descSize=16&descAlignY=58&animation=fadeIn" width="100%" />
+
+<a href="https://github.com/amankumar3093">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Turning+Raw+Data+Into+Meaningful+Insights;Data+Analytics+%7C+Power+BI+%7C+SQL+%7C+Python;Building+Dashboards+That+Tell+Stories;Learning%2C+Analyzing%2C+Growing+Every+Day" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://github.com/amankumar3093">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/amankumar3093">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amankumar3093&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+Hi, I'm **Aman Kumar**, a Computer Science & Engineering graduate passionate about data analytics, business intelligence, and technology.
+
+I enjoy transforming raw data into meaningful insights, creating interactive dashboards, and using data to understand business problems.
+
+- 🎓 B.Tech in Computer Science & Engineering — 2026
+- 📊 Focused on Data Analytics and Business Intelligence
+- 💼 Working in office operations and administration, alongside technical learning
+- 📈 Interested in data cleaning, visualization, reporting, and dashboard development
+- 💻 Background in MERN Stack Development
+- 🌱 Continuously learning and building practical projects
+
+> **My goal:** Turn data into insights that help people understand problems and make informed decisions.
+
+---
+
+## 📊 My Data Analytics Toolkit
+
+<div align="center">
+
+### Data Analysis & Visualization
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+
+### Databases & Querying
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+
+### Development & Tools
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Featured Data Analytics Projects
+
+<div align="center">
+
+<a href="https://github.com/amankumar3093/hr-analytics-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumar3093&repo=hr-analytics-dashboard&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/amankumar3093/bank-loan-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amankumar3093&repo=bank-loan-analysis&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 📌 HR Analytics Dashboard
+
+**Tools:** Power BI · SQL · Excel
+
+- Analyze employee performance, attendance, and attrition.
+- Explore workforce trends and HR-related KPIs.
+- Present insights through interactive dashboards and filters.
+
+🔗 [Explore HR Analytics Project](https://github.com/amankumar3093/hr-analytics-dashboard)
+
+### 📌 Bank Loan Analysis
+
+**Tools:** Python · Pandas · NumPy · Matplotlib
+
+- Explore loan-related data and identify trends.
+- Perform data cleaning and exploratory data analysis.
+- Use visualizations to communicate patterns in loan data.
+
+🔗 [Explore Bank Loan Analysis](https://github.com/amankumar3093/bank-loan-analysis)
+
+### 📌 PhonePe Transaction Analysis
+
+**Tools:** Excel · Power BI
+
+- Explore transaction patterns and payment trends.
+- Build interactive reports and visualizations.
+- Present key metrics in a dashboard format.
+
+🔗 [View My GitHub Repositories](https://github.com/amankumar3093?tab=repositories)
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amankumar3093&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=amankumar3093&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar3093&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amankumar3093/amankumar3093/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/amankumar3093">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/_being_aman_kumar">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://facebook.com/aman.kumar.gajraula.up">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/31176983/aman-kumar">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Connect-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://youtube.com/@amankumar_3093">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:AMANKUMARDEVELOPER6@GMAIL.COM">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amankumar3093&label=PROFILE%20VIEWS&color=0F766E&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Data tells a story. My job is to discover it."
+
+**Thanks for visiting my profile! Let's connect and grow together.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0F766E,100:0F172A&height=100&section=footer" width="100%" />
+
+</div>
